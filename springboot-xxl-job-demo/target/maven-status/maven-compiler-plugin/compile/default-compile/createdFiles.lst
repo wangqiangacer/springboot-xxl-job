@@ -1,0 +1,3 @@
+com\jacken\xxl\job\AppJobApplication.class
+com\jacken\xxl\job\handler\MyJobHandler.class
+com\jacken\xxl\job\config\XxlJobConfig.class
